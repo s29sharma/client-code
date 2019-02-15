@@ -1,5 +1,5 @@
 To start the server:
-Open the Currency project by unzipping the file
+Open the Currency project by unzipping the currency.zip file
 Import the project in eclipse/STS ide
 Click on Start icon to start the tomcat container
 The server should start at port 8080
